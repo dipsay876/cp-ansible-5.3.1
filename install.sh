@@ -1,0 +1,1 @@
+ansible-playbook -i /home/kafka-pipeline/workspace/kafka_SITkafkaDeployment/sit-kafka/hosts.yml /home/kafka-pipeline/workspace/kafka_SITkafkaDeployment/sit-kafka/all.yml

@@ -1,0 +1,10 @@
+roles\confluent.common\defaults\main.yml
+roles\confluent.common\tasks\main.yml
+roles\confluent.control_center\defaults\main.yml
+roles\confluent.control_center\tasks\main.yml
+roles\confluent.kafka_broker\defaults\main.yml
+roles\confluent.kafka_broker\tasks\main.yml
+roles\confluent.kafka_connect\defaults\main.yml
+roles\confluent.kafka_connect\tasks\main.yml
+roles\confluent.zookeeper\defaults\main.yml
+roles\confluent.zookeeper\tasks\main.yml
